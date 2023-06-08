@@ -40,14 +40,14 @@ if(isset($_POST['update']))
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
                 
-                <li class="nav-item">
-                    <a class="nav-link" href="index.php?ctrl=game&method=create">AJOUTER UN JEU</a>
+               <li class="nav-item">
+                    <a class="nav-link" href="./players">AJOUTER UN JEU</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php?ctrl=player&method=create">AJOUTER UN JOUEUR</a>
+                    <a class="nav-link" href="./games">AJOUTER UN JOUEUR</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="index.php?ctrl=contest&method=create">AJOUTER UN MATCH</a>
+                    <a class="nav-link" href="./statistic">AJOUTER UN MATCH</a>
                 </li>
                 
             </ul>
