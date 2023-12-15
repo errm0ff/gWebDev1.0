@@ -3,34 +3,26 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/examen1_1/models/Model.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/views/View.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/index.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/StatisticController.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/PlayersController.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/cfg/route.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/utils/Utils.php</file>
             <file>file:/C:/xampp/htdocs/examen1_1/cfg/conf.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/.htaccess</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/models/StatisticModel.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/views/create.player.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/controllers/GamesController.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/views/View.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/models/IndexModel.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/models/HomeModel.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/cfg/route.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/models/Model.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/controllers/Controller.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/controllers/PlayersController.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/cfg/dbconn.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/controllers/StatisticController.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/controllers/HomeController.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/views/home.page.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/controllers/IndexController.php</file>
+            <file>file:/C:/xampp/htdocs/examen1_1/views/create.statistic.tpl.php</file>
             <file>file:/C:/xampp/htdocs/examen1_1/models/PlayersModel.php</file>
             <file>file:/C:/xampp/htdocs/examen1_1/views/create.game.tpl.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/CrudController.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/.gitattributes</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/views/home.page.tpl.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/HomeController.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/models/HomeModel.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/GamesController.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/models/IndexModel.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/models/StatisticModel.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/models/CrudModels.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/Controller.php</file>
             <file>file:/C:/xampp/htdocs/examen1_1/models/GamesModel.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/views/create.player.tpl.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/views/waitlistaprove.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/controllers/IndexController.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/cfg/dbconn.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/views/create.statistic.tpl.php</file>
-            <file>file:/C:/xampp/htdocs/examen1_1/views/edit.game.tpl.php</file>
         </group>
     </open-files>
 </project-private>
